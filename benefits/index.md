@@ -3,7 +3,7 @@ title: Benefits
 nav_order: 7
 ---
 # Benefits
-_Work in progress..._
+_Work in progress..._  *This is where we will discuss our benefits.*
 
 ## Health Insurance
 ### Medical Insurance
